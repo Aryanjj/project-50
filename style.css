@@ -1,0 +1,30 @@
+.header {
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.line {
+    height: 40px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-evenly;
+}
+
+.item {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 30px;
+    background: lightblue
+}
+
+.camel {
+    border-radius: 25px;
+    border: 10px solid #040700;
+    padding: 10px;
+    background: rgb(243, 244, 245)
+}
